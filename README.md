@@ -1,11 +1,11 @@
 # AirBnb [Tableau]
 
 ## Overview
-This repository contains a Tableau project that showcases a sales dashboard. The dashboard provides insights into sales performance, regional distribution, and product analysis.
+<b>Bedroom Listings Overview</b>: Displays a text table with the distinct count of property listings categorized by the number of bedrooms.
 
-A Strategic Approach to Restaurant Expansion
+<b>Pricing Analysis</b>: Includes a bar chart showing the average price per bedroom and a map indicating price variations by zipcode.
 
-This project is a strategic analysis to guide the next steps in restaurant expansion. An overview of the restaurant data, covering key aspects such as geographical distribution, competition analysis, cuisine preferences, pricing dynamics, and more.
+<b>Revenue Trends</b>: Features a visualization of annual revenue, illustrating financial performance over time.
 
 ## Files
 - `Tableau Final Project/calendar.xlsx`: The source data 1.
@@ -15,7 +15,7 @@ This project is a strategic analysis to guide the next steps in restaurant expan
 ![AirBnb Price Analysis Dashboard Image](AirBnb_Dashboard/Air_Bnb_Dashboard.png)
 
 ## How to Use
-1. Click this link,`https://public.tableau.com/views/AirBnBFullProject_17213206041620/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
+1. Use this link,`https://public.tableau.com/views/AirBnBFullProject_17213206041620/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 ## Data Sources
 - The Kaggle  provided the listings and calendar data.
