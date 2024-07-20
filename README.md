@@ -12,7 +12,7 @@ This project is a strategic analysis to guide the next steps in restaurant expan
 - `Tableau Final Project/listings.csv.xlsx`: The source data 2.
 
 ## Preview
-![AirBnb Price Analysis Dashboard Image](AirBnb Dashboard/Air Bnb Dashboard.png)
+![AirBnb Price Analysis Dashboard Image](AirBnb_Dashboard/Air_Bnb_Dashboard.png)
 
 ## How to Use
 1. Click this link,`https://public.tableau.com/views/AirBnBFullProject_17213206041620/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
